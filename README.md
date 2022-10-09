@@ -1,4 +1,4 @@
-# Apex-Fundamentals
+# Apex Fundamentals
 
 <img align="center" alt="Salesforce" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" />
           
